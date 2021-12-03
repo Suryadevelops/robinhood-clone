@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Wecome to my robinhood clone
+
+This a clone of the famous stock market called robinhood. I have cloned the home page of the website. You can use this as a reference or make one yourself for your portfolio as i'm made. Feel free to fork this and use.
+
+For contact - suryadevelops@gmail.com
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Credits
+
+https://robinhood.com/us/en/
